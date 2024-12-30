@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CPUSchedulingAlgorithm.cpp" />
     <ClCompile Include="CPUSchedulingOverview.cpp" />
     <ClCompile Include="MultiprocessAndMultithread.cpp" />
     <ClCompile Include="ProcessOverview.cpp" />
