@@ -25,6 +25,7 @@
     <ClCompile Include="ProcessOverview.cpp" />
     <ClCompile Include="ProcessStatesAndHierarchies.cpp" />
     <ClCompile Include="Synchronization.cpp" />
+    <ClCompile Include="SynchronizationTechnique.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
