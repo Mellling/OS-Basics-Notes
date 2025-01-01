@@ -22,6 +22,7 @@
     <ClCompile Include="CPUSchedulingAlgorithm.cpp" />
     <ClCompile Include="CPUSchedulingOverview.cpp" />
     <ClCompile Include="Deadlock.cpp" />
+    <ClCompile Include="DeadlockResolution.cpp" />
     <ClCompile Include="MultiprocessAndMultithread.cpp" />
     <ClCompile Include="ProcessOverview.cpp" />
     <ClCompile Include="ProcessStatesAndHierarchies.cpp" />
