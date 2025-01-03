@@ -29,6 +29,7 @@
     <ClCompile Include="ProcessStatesAndHierarchies.cpp" />
     <ClCompile Include="Synchronization.cpp" />
     <ClCompile Include="SynchronizationTechnique.cpp" />
+    <ClCompile Include="VirtualMemoryAllocationThroughPaging.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
