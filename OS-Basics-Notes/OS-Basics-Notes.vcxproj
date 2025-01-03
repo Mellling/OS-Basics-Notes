@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ContiguousMemoryAllocation.cpp" />
     <ClCompile Include="CPUSchedulingAlgorithm.cpp" />
     <ClCompile Include="CPUSchedulingOverview.cpp" />
     <ClCompile Include="Deadlock.cpp" />
