@@ -48,5 +48,8 @@
     <ClCompile Include="VirtualMemoryAllocationThroughPaging.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="PageReplacementAndFrameAllocation.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

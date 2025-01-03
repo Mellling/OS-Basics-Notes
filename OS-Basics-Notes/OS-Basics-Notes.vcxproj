@@ -25,6 +25,7 @@
     <ClCompile Include="Deadlock.cpp" />
     <ClCompile Include="DeadlockResolution.cpp" />
     <ClCompile Include="MultiprocessAndMultithread.cpp" />
+    <ClCompile Include="PageReplacementAndFrameAllocation.cpp" />
     <ClCompile Include="ProcessOverview.cpp" />
     <ClCompile Include="ProcessStatesAndHierarchies.cpp" />
     <ClCompile Include="Synchronization.cpp" />
